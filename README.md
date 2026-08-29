@@ -6,7 +6,7 @@ Enumerate User and Computer Objects via SAMR Protocol and Evade SACL Logging sim
 https://github.com/user-attachments/assets/39a6f67d-5720-4240-95d5-5d3417f12381
 
 
-[Watch the Highy Quality video on YouTube](https://www.youtube.com/watch?v=fk0j3IpnUao)
+[Watch the High Quality video on YouTube](https://www.youtube.com/watch?v=fk0j3IpnUao)
 
 I'd be glad to hear you'r thoughts and use you'r ideas, so i appreciate any contribute :)
 
